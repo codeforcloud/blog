@@ -1,0 +1,4 @@
+baseURL = "http://blog.codeforcloud.tech/"
+languageCode = "fr-fr"
+title = "Blog technique de CodeForCloud"
+theme = "ananke"
